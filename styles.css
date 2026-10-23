@@ -59,6 +59,7 @@ h1 {
 .boba-rain span:nth-child(8) { left: 75%; --delay: .2s; }
 .boba-rain span:nth-child(9) { left: 85%; --delay: .4s; }
 .boba-rain span:nth-child(10) { left: 95%; --delay: .1s; }
+.boba-rain span:nth-child(11) { left: 90%; --delay: .6s; }
 #boba-toggle:checked ~ .boba-rain {
     visibility: visible;
 }
